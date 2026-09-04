@@ -1,8 +1,8 @@
 <!-- Profile README for HseyAI — auto-generated assets update via GitHub Actions -->
 
-<!-- ============ ANIMATED HEADER WAVE ============ -->
+<!-- ============ BESPOKE ANIMATED TERMINAL (self-hosted, never breaks) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d2e,50:8a2be2,100:4b7dff&height=220&section=header&text=Yeshwanth&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creative%20Technology%20%C2%B7%20Full-Stack%20%C2%B7%20Automation&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/HseyAI/HseyAI/main/assets/terminal.svg" width="100%" alt="animated terminal boot sequence" />
 </p>
 
 <!-- ============ TYPING ANIMATION ============ -->
